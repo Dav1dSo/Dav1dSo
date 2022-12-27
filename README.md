@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/Dav1dSo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David Soares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dSo&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
@@ -20,3 +20,4 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
+  
