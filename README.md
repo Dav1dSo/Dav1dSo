@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/david-soares-569166231 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 # Hi there 👋
 
+- Sou desenvolvedor Full Stack formado em Sistemas para internet pela Faculdade Unipê em João Pessoa com amplo conhecimento adquirido nos ultimos 4 anos em que sempre me motivo a conhecer novas tecnologias e compartilhar conhecimento.
+
 <div>
   <a href="https://github.com/Dav1dSo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
