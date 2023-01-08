@@ -13,13 +13,13 @@
 ## 🛠 Languages/Frameworks 
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="80" height="80" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="90" height="80" />&nbsp;
     <img src="https://www.iconsdb.com/icons/preview/yellow/js-xxl.png" alt="javascript" width="58" height="80" />&nbsp;
     <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="80" height="80">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="80" height="80"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="80" height="80" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="80" height="80">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" height="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="90">
 </p>
   
