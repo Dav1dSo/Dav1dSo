@@ -15,7 +15,7 @@
 <p align="left">
     <img height="120em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" />
     <img height="120em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8wIweZXYC7bbQNYoOW5D5dO4I28G6PV9N-QRzmQppr7dMqHKSkujDknOBWKeFNBtuiA&usqp=CAU" alt="javascript"/>
-    <img height="120em" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png">
+    <img height="150em" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png">
     <img height="120em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50" />&nbsp;
     <img height="120em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />&nbsp;
     <img height="120em" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
