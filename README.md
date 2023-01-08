@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/Dav1dSo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dav1dso&show_icons=true&theme=tokyonight">
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dSo&layout=compact)](https://github.com/Dav1So/github-readme-stats)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dSo&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
