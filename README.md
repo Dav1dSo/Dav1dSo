@@ -1,5 +1,5 @@
 <a href = "soaresdavid411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/david-soares-569166231 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "https://www.linkedin.com/in/david-soares-developer-fullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 # Hi there 👋
 
 - Sou desenvolvedor Full Stack formado em Sistemas para internet pela Faculdade Unipê em João Pessoa com amplo conhecimento adquirido nos ultimos 4 anos em que sempre me motivo a conhecer novas tecnologias e compartilhar conhecimento.
