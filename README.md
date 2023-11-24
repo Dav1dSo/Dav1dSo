@@ -1,25 +1,43 @@
-<a href = "soaresdavid411@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/david-soares-developer-fullstack/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-# Hi there 👋
 
-- Sou desenvolvedor Full Stack formado em Sistemas para internet pela Faculdade Unipê em João Pessoa com amplo conhecimento adquirido nos ultimos 4 anos em que sempre me motivo a conhecer novas tecnologias e compartilhar conhecimento.
+# Olá, me chamo David ! 👋
 
-<div>
-  <a href="https://github.com/Dav1dSo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dav1dSo&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dSo&layout=compact&langs_count=7&theme=tokyonight">
-</div>
-  
-## 🛠 Languages/Frameworks 
+Full Stack developer👨‍💻
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="70" height="80" />&nbsp;
-    <img src="https://www.iconsdb.com/icons/preview/yellow/js-xxl.png" alt="javascript" width="90" height="80" />&nbsp;
-    <img src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" width="80" height="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="80" height="80"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="80" height="80" />&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="80" height="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="80" height="80">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="80" height="90">
-</p>
-  
+![David Soares stats](https://github-readme-stats.vercel.app/api?username=Dav1dSo&show_icons=true&theme=tokyonight)
+![David Soares stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1dSo&layout=compact&langs_count=7&theme=tokyonight) 
+
+## About me 
+
+I am software developer with market experience and extensive
+knowledge acquired over the last 4 years. I am currently studying my second degree in Systems Analysisand Development and I seek to improve and share knowledge whether in the roles of intern or juniordeveloper working on building or improving solutions
+that positively impact people’s lives.
+
+
+## Skills
+
+<ul>
+    <li>
+        <img align="center" alt="js" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img align="center" alt="js" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+        <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img align="center" alt="js" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <!-- </li>
+        </BR>
+    <li> -->
+        <img align="center" alt="js" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+        <img align="center" alt="js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+        <img align="center" alt="js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <!-- </li>
+        </BR>
+    <li> -->
+        <img align="center" alt="js" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    </li>
+</ul>
+
+## Contact
+
+<a href = "davidsoares.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "www.linkedin.com/in/david-soares-developer-fullstack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+Feel free to explore my repositories and get in touch! 😊
