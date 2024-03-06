@@ -1,6 +1,3 @@
-
-# Olá, me chamo David ! 👋
-
 Full Stack developer👨‍💻
 
 ![David Soares stats](https://github-readme-stats.vercel.app/api?username=Dav1dSo&show_icons=true&theme=tokyonight)
