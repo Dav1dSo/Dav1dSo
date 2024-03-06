@@ -8,9 +8,8 @@ Full Stack developer👨‍💻
 
 ## About me 
 
-I am software developer with market experience and extensive
-knowledge acquired over the last 4 years. I am currently studying my second degree in Systems Analysisand Development and I seek to improve and share knowledge whether in the roles of intern or juniordeveloper working on building or improving solutions
-that positively impact people’s lives.
+I am a software developer with extensive market experience
+knowledge acquired in the last 2 years.
 
 
 ## Skills
