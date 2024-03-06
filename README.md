@@ -39,4 +39,3 @@ knowledge acquired in the last 2 years.
 <a href = "davidsoares.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "www.linkedin.com/in/david-soares-developer-fullstack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Feel free to explore my repositories and get in touch! 😊
